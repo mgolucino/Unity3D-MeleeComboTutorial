@@ -2,7 +2,7 @@
 ![Preview](https://user-images.githubusercontent.com/46628480/102599477-25270480-40e3-11eb-9b85-c53afad3957b.png)
 
 # Instructions
-Download the assets folder in this repository, then import the contents into your Unity 3D project. If you open up the demo scene, you will see that the scene is fairly empty and missing certain objects. You must go to the Unity Asset Store and download a free animation package to obtain the rest of the assets used for this tutorial.
+Download the **MeleeComboTutorial** folder in this repository and import it into your Unity 3D project. If you open up the demo scene, you will see that the scene is fairly empty and missing certain objects. You must go to the Unity Asset Store and download a free animation package to obtain the rest of the assets used for this tutorial.
 
 # Fighting Motions Vol.1
 ![Fighting Motions Vol 1](https://user-images.githubusercontent.com/46628480/102599873-b6967680-40e3-11eb-8311-059f35f408e4.png)
