@@ -30,7 +30,8 @@ The second half of making melee combos is setting up animation states and transi
 
 # Transitions Between Attack States
 ![Transitions Between Attack States](https://user-images.githubusercontent.com/46628480/102703456-90ccb700-4234-11eb-8643-88aaf3470acf.png)
-For each attack state excluding the last, create a transition that leads to the next attack. Click on one of the transition arrows to view its properties in the inspector. Uncheck the box for **Has Exit Time** and add the **NextAction** and **MeleeAttackA** triggers for the conditions. Do this for all four transitions so that your animator controller looks like the image above.
+![Transition Times](https://user-images.githubusercontent.com/46628480/102836469-17ad9b00-43bf-11eb-9b00-f54cebd0a0f9.png)
+For each attack state excluding the last, create a transition that leads to the next attack. Click on one of the transition arrows to view its properties in the inspector. Uncheck the box for **Has Exit Time** and add the **NextAction** and **MeleeAttackA** triggers for the conditions. Do this for all four transitions so that your animator controller looks like the image above. Then, expand the **Settings** drop-down menu and set the **Transition Duration** for each transition to the values shown in the image above.
 
 # Transitions Back to Idle
 ![Transitions Back to Idle](https://user-images.githubusercontent.com/46628480/102703458-95916b00-4234-11eb-9ef5-ce877dce5c2d.png)
