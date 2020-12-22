@@ -15,7 +15,7 @@ Search for **Fighting Motions Vol.1** in the Asset Store and import the package 
     * hp_upper_right_A
     * bk_rh_right_A
 
-You may delete the other animations or place them in a different folder so that you have an easier time locating the animations needed for this tutorial. At this point you can proceed to the tutorial.
+To easily find these files, use the search bar on the **Project** window and copy/paste these names. You may delete the other animations or place them in a different folder so that you have an easier time locating the animations needed for this tutorial. At this point you can proceed to the tutorial.
 
 # Animation Events
 ![Animation Event Times](https://user-images.githubusercontent.com/46628480/102599911-c44bfc00-40e3-11eb-82fc-6f06e006fae7.png)
